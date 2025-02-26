@@ -1,0 +1,7 @@
+{
+    "symbols": ["BTCUSDT","ETHUSDT","SOLUSDT"],
+    "years": [2022,2023,2024],
+    "interval": "1h",
+    "columns": "all",
+    "save_path": "data"
+}
